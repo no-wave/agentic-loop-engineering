@@ -1,7 +1,7 @@
 # 핸즈온 에이전틱 루프 엔지니어링 with Python
 #### AI 에이전트 구축을 위한 Agentic Loop 엔지니어링 핵심 패턴 가이드
 
-<img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252Fv0xCIE0MVciZuQYSTkyj%252FNeuroSymbolic-Cover.png%3Falt%3Dmedia%26token%3D944d373b-f20b-45e3-90f9-f24c5c2a09b9&width=300&dpr=3&quality=100&sign=f1052a47627395019793947bede7e71e&sv=3" width="500" height="707"/>
+<img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252F8jJqWHfKLsVDYaBSzUbL%252FAgenticLoop-Cover-V1%25201.png%3Falt%3Dmedia%26token%3D0c6eeeb1-1591-476a-a28a-839eb6f6f074&width=300&dpr=3&quality=100&sign=0a49419b313db4e867b454fe42461b62&sv=3" width="500" height="707"/>
 
 ## 책 소개
 
